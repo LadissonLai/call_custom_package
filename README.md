@@ -1,6 +1,6 @@
 # 如何在同一工作空间下调用另一ros功能包
 
-本项目有两个ros功能包，a_pack和b_pack。a_pack调用了b_pack的函数，b_pack提供了两个函数，假发和减法。本项目说明如何配置b_pack和a_pack功能包，让a_pack可以调用b_pack。
+本项目有两个ros1功能包，a_pack和b_pack。a_pack调用了b_pack的函数，b_pack提供了两个函数，假发和减法。本项目说明如何配置b_pack和a_pack功能包，让a_pack可以调用b_pack。
 
 ## 配置b_pack
 
