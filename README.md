@@ -46,3 +46,13 @@ target_link_libraries(a_node
 )
 ```
 
+## 使用方法
+
+```shell
+mkdir -p ~/tmp_ws/src
+cd ~/tmp_ws/src
+git clone git@github.com:LadissonLai/call_custom_package.git
+cd ~/tmp_ws
+catkin_make
+```
+
