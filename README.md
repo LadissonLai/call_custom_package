@@ -54,5 +54,7 @@ cd ~/tmp_ws/src
 git clone https://github.com/LadissonLai/call_custom_package.git
 cd ~/tmp_ws
 catkin_make
+source ./devel/setup.bash
+rosrun a_pack a_node
 ```
 
