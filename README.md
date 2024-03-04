@@ -15,7 +15,7 @@
 
 ## 配置b_pack
 
-### # CMakeLists.txt中的配置如下
+#### CMakeLists.txt中的配置如下
 
 ```cmake
 # 这里必须配置，说明b_pack功能包中，导出的库和头文件。
@@ -44,7 +44,7 @@ add_library(b_pack src/b.cpp)
 <exec_depend>b_pack</exec_depend>
 ```
 
-### CMakeLists.txt
+#### CMakeLists.txt
 
 ```cmake
 find_package(catkin REQUIRED COMPONENTS
