@@ -69,3 +69,6 @@ catkin_make
 source ./devel/setup.bash
 rosrun a_pack a_node
 ```
+
+## 完整项目
+完整项目请见github[仓库](https://github.com/LadissonLai/call_custom_package.git).
